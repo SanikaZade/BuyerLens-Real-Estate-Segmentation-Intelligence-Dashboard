@@ -89,22 +89,6 @@ buyer-segmentation-parcl/
 
 ---
 
-## Local Setup & Run
-
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the dashboard
-```bash
-streamlit run app.py
-```
-
-Opens at **http://localhost:8501**
-
----
-
 ## Deliverables (per PRD)
 
 - ✅ Streamlit dashboard (live analytics) — `app.py`
