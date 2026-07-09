@@ -89,7 +89,7 @@ buyer-segmentation-parcl/
 
 ---
 
-## Deliverables (per PRD)
+## Deliverables 
 
 - ✅ Streamlit dashboard (live analytics) — `app.py`
 - ✅ ML pipeline — `pipeline.py`
