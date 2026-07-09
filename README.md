@@ -15,7 +15,7 @@ smarter marketing strategies and drive data-driven real estate investment decisi
 
 ---
 
-## 4 Buyer Segments (Discovered via K-Means Clustering)
+## 4 Buyer Segments - Discovered via K-Means Clustering
 
 | Cluster | Buyer Type | Characteristics |
 |---------|-----------|----------------|
@@ -56,7 +56,7 @@ buyer-segmentation-parcl/
 
 ---
 
-## 6-Step Data Science Methodology (per PRD)
+## 6-Step Data Science Methodology 
 
 | Step | Task |
 |------|------|
