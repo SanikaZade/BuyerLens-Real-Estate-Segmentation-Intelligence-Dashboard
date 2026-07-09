@@ -69,7 +69,7 @@ buyer-segmentation-parcl/
 
 ---
 
-## Dashboard Modules (per PRD)
+## Dashboard Modules 
 
 | Module | Description |
 |--------|-------------|
