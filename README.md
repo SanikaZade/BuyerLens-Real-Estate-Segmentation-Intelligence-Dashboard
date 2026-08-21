@@ -2,7 +2,7 @@
 
 **Client:** Parcl Co. Limited  
 **Partner:** Unified Mentor  
-**Domain:** Financial Analytics & Real Estate Market Intelligence
+**Domain:** Financial Analytics & Real Estate Market Intelligence  
 
 ---
 
