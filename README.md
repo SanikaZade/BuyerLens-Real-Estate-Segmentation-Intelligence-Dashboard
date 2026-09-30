@@ -8,7 +8,6 @@
 
 Live Dashboard = https://buyerlens-real-estate-segmentation-intelligence-dashboard-mtev.streamlit.app/
 
-
 ## Project Overview
 
 This project introduces AI-driven buyer intelligence into the Parcl real estate platform.
